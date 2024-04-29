@@ -27,4 +27,4 @@ Desde que entrei no mundo da infraestrutura, tenho me dedicado a implementaçõe
 - **Comunicação:** Boa habilidade de comunicação para colaborar efetivamente em equipes.
 - **Disponibilidade:** Pronto para assumir responsabilidades e enfrentar desafios sempre que necessário.
 
-Fique à vontade para entrar em contato através dos meus perfis ou pelo e-mail jorge.filho@example.com.
+
